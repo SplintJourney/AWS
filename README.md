@@ -17,6 +17,12 @@ AWSを用いたChat-GPTとの音声対話システム
 
   Load Barancer
 
+  chat-gptのap
+
+  Route53
+
+  
+
 <フロントエンド>
 
   node.js
