@@ -35,7 +35,7 @@ def call_chatGPT(inputText):
         model="gpt-3.5-turbo",
         messages=[
             {"role": "system" , "content": "あなたは山口弁を話す女子大学生です。また回答は250字以内で行ってほしい。"} ,
-            # {"role": "system" , "content": "入力された文章が文法的に正しいか、間違えている場合はその理由も合わせて250字以内で日本語で説明して"} ,
+            
             {"role": "user", "content": inputText }
         ]
     )
@@ -44,7 +44,7 @@ def call_chatGPT(inputText):
 
 #DynamoDBに書き込む    
 def write_dynamoDB(input , output):
-    table = dynamodb.Table('0629-DB')
+    table = dynamodb.Table('DB-name')
 
     table.put_item(
     	Item={
