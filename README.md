@@ -15,6 +15,8 @@ AWSを用いたChat-GPTとの音声対話システム
   
   API Gateway
 
+  Load Barancer
+
 <フロントエンド>
 
   node.js
@@ -36,5 +38,12 @@ AWSを用いたChat-GPTとの音声対話システム
 ・担当箇所
 
 AWS全般
+
+・工夫点
+
+ブラウザでマイクを活用するために、Httpsにしたこと
+
+今後の拡張性を考慮し、Lambdaにてchat-gptのapiを操作、DBの管理を行なったこと
+
 
 
