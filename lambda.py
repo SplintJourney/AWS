@@ -48,8 +48,8 @@ def write_dynamoDB(input , output):
 
     table.put_item(
     	Item={
-    		"ohira": input,
-    		"baka": output
+    		"INPUT": input,
+    		"OUTPUT": output
     	}
     )
     
