@@ -9,6 +9,8 @@ AWSを用いたChat-GPTとの音声対話システム
 
 <img width="1365" alt="image" src="https://github.com/SplintJourney/AWS/assets/139861013/5be34b04-713b-45ce-9ac1-71e11c55ce1b">
 
+<img width="1134" alt="image" src="https://github.com/SplintJourney/AWS/assets/139861013/2ebe63ea-57d9-4067-8533-6b0e2edc63f5">
+
 
 **背景**
 
