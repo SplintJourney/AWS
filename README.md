@@ -33,31 +33,11 @@ AWSを用いたChat-GPTとの音声対話システム
 
 <バックエンド AWS>
 
-  EC2
-  
-  labmda(ランタイム:Python3.8)
-  
-  Amazon DynamoDB
-  
-  API Gateway
-
-  Load Barancer
-
-  chat-gptのapi
-
-  Route53
-
-  ACM(SSL証明書発行)
+  EC2 , labmda(ランタイム:Python3.8) , Amazon DynamoDB , API Gateway , Load Barancer , chat-gptのapi , Route53 , ACM(SSL証明書発行)
 
 <フロントエンド>
 
-  node.js
-  
-  javascript
-  
-  HTML
-  
-  CSS
+  node.js , javascript , HTML , CSS
 
 **開発期間**
 
