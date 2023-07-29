@@ -3,6 +3,9 @@
 
 AWSを用いたChat-GPTとの音声対話システム
 
+・構成図
+ 
+
 ・使ったサービス、言語
 
 <バックエンド AWS>
@@ -11,17 +14,17 @@ AWSを用いたChat-GPTとの音声対話システム
   
   labmda(ランタイム:Python3.8)
   
-  DynmoDB
+  Amazon DynamoDB
   
   API Gateway
 
   Load Barancer
 
-  chat-gptのap
+  chat-gptのapi
 
   Route53
 
-  
+  ACM(SSL証明書発行)
 
 <フロントエンド>
 
