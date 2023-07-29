@@ -5,7 +5,9 @@ AWSを用いたChat-GPTとの音声対話システム
 
 **完成状態**
 
+<img width="1365" alt="image" src="https://github.com/SplintJourney/AWS/assets/139861013/7d4958a4-e36f-415a-85b9-c100f08b21c1">
 
+<img width="1365" alt="image" src="https://github.com/SplintJourney/AWS/assets/139861013/5be34b04-713b-45ce-9ac1-71e11c55ce1b">
 
 
 **背景**
