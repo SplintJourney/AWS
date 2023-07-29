@@ -3,6 +3,7 @@
 
 AWSを用いたChat-GPTとの音声対話システム
 
+
 **完成状態**
 
 <img width="1365" alt="image" src="https://github.com/SplintJourney/AWS/assets/139861013/7d4958a4-e36f-415a-85b9-c100f08b21c1">
@@ -10,6 +11,7 @@ AWSを用いたChat-GPTとの音声対話システム
 <img width="1365" alt="image" src="https://github.com/SplintJourney/AWS/assets/139861013/5be34b04-713b-45ce-9ac1-71e11c55ce1b">
 
 <img width="1134" alt="image" src="https://github.com/SplintJourney/AWS/assets/139861013/2ebe63ea-57d9-4067-8533-6b0e2edc63f5">
+
 
 
 **背景**
@@ -24,9 +26,11 @@ AWSを用いたChat-GPTとの音声対話システム
 
 [2]https://www.campaignlive.co.uk/article/just-say-it-future-search-voice-personal-digital-assistants/1392459
 
+
 **構成図**
 
  <img width="942" alt="image" src="https://github.com/SplintJourney/AWS/assets/139861013/366fb3a7-c263-4b31-bc58-b785dfcb5d41">
+
 
 
 **使ったサービス、言語**
@@ -39,23 +43,28 @@ AWSを用いたChat-GPTとの音声対話システム
 
   node.js , javascript , HTML , CSS
 
+
 **開発期間**
 
 ３ヶ月
+
 
 **開発時期と人数**
 
 大学4年時に同じ研究室の友人３人と計4人で行なった
 
+
 **担当箇所**
 
 バックエンド(AWS全般)
+
 
 **工夫点**
 
 ブラウザでマイクを活用するために、Httpsにしたこと
 
 今後の拡張性を考慮し、Lambdaにてchat-gptのapiを操作、DBの管理を行なったこと
+
 
 **課題**
 
