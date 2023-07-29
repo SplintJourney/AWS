@@ -4,11 +4,8 @@
 AWSを用いたChat-GPTとの音声対話システム
 
 **完成状態**
-<img width="1440" alt="スクリーンショット 2023-07-29 9 19 18" src="https://github.com/SplintJourney/AWS/assets/139861013/3810448c-0709-4387-b1d3-03c1172300f0">
 
-<img width="1440" alt="スクリーンショット 2023-07-29 10 02 48" src="https://github.com/SplintJourney/AWS/assets/139861013/f1a9d298-c08b-438c-9370-0fb9299d5000">
 
-<img width="1440" alt="スクリーンショット 2023-07-29 10 03 04" src="https://github.com/SplintJourney/AWS/assets/139861013/9f6da0f4-3e97-44b4-9d50-3b6e811481c9">
 
 
 **背景**
