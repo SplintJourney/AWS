@@ -4,7 +4,9 @@
 AWSを用いたChat-GPTとの音声対話システム
 
 ・構成図
- 
+
+ <img width="942" alt="image" src="https://github.com/SplintJourney/AWS/assets/139861013/366fb3a7-c263-4b31-bc58-b785dfcb5d41">
+
 
 ・使ったサービス、言語
 
